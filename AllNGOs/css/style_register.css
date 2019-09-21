@@ -1,0 +1,71 @@
+#  main-wrapper{
+    width:500px;
+    margin: 0 auto;
+    background:white;
+    padding: 5px;
+    border-radius:10px;
+    border: 2px solid #2c3e50;
+}
+.avatar{
+    width: 150px;
+    text-align: center;
+    
+        
+}
+.myform{
+    width: 430px;
+    margin: 0 auto;
+    padding: 5px;
+}
+.inputvalues{
+    width:450px;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+body{
+    background-color: orange;
+}
+#Login_btn{
+    margin-bottom: 10px;
+    background-color:#178bff;
+    padding: 5px;
+    color: white;
+    width: 30%;
+    text-align: center;
+    font-size:18px;
+    font-weight:bold;
+    
+}
+#register_btn{
+     margin-bottom: 10px;
+    background-color:#fc41d1;  
+    padding: 5px;
+    color: white;
+    width: 30%;
+    text-align: center;
+    font-size:18px;
+    font-size:bold;
+    
+}
+
+#singup_btn{
+     margin-bottom: 10px;
+    background-color: #03ff29; 
+    padding: 5px;
+    color: white;
+    width: 40%;
+    text-align: center;
+    font-size:18px;
+    
+}
+#back_btn{
+     margin-bottom: 10px;
+    background-color: #ff0000; 
+    padding: 5px;
+    color: white;
+    width: 40%;
+    text-align: center;
+    font-size:18px;
+    
+}
